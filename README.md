@@ -21,6 +21,12 @@ This repo contains the Backend-end for the project. The code primarily has two p
 
 The frontend code can be accessed in a different repo [here](https://github.com/gautamp8/netzero-dao).
 
+### Architecture
+
+Here's what the current architecture looks like
+
+![image](/images/architecture.svg)
+
 ## Instructions to run
 
 To get started with this project, clone this repo and follow the commands below
